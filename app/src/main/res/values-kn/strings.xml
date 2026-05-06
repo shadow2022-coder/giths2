@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ಹಸ್ತ-ಕಲಾ ಶಾಪ್</string>
+    <string name="tab_home">ಮನೆ</string>
+    <string name="tab_sell">ಮಾರಾಟ</string>
+    <string name="tab_inventory">ಸಂಗ್ರಹ</string>
+    <string name="tab_insights">ಅವಲೋಕನ</string>
+    <string name="tab_settings">ಸೆಟ್ಟಿಂಗ್‌ಗಳು</string>
+</resources>

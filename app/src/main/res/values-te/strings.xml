@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">హస్త-కళ షాప్</string>
+    <string name="tab_home">హోమ్</string>
+    <string name="tab_sell">అమ్మకం</string>
+    <string name="tab_inventory">స్టాక్</string>
+    <string name="tab_insights">అవగాహన</string>
+    <string name="tab_settings">సెట్టింగ్స్</string>
+</resources>

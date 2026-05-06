@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hasta-Kala Shop</string>
+    <string name="tab_home">Home</string>
+    <string name="tab_sell">Sell</string>
+    <string name="tab_inventory">Inventory</string>
+    <string name="tab_insights">Insights</string>
+    <string name="tab_settings">Settings</string>
+</resources>
